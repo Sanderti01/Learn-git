@@ -33,11 +33,11 @@ ssh-keygen -t rsa -C "e-mail@exemple.com"
 ```
 
 Para concluir o passo acima basta realizar os procedimentos abaixo:
-	1 - Colocar o comando acima;  
-	2 -  Inserir o nome da suas chaves ssh;
-	3 - Escolher uma senha para as mesmas e repetir. 
-	
-	![setu ssh](https://github.com/Sanderti01/Learn-git/assets/95760702/0ac8e427-30ca-4ef2-97ee-772254367c90)
+ 1 - Colocar o comando acima;  
+ 2 -  Inserir o nome da suas chaves ssh;
+ 3 - Escolher uma senha para as mesmas e repetir. 
+
+![setu ssh](https://github.com/Sanderti01/Learn-git/assets/95760702/056b0dfb-6595-4dc4-a0dc-6c118c61d4a6)
 
 
 Gerando um agent para realizar o conectator do Github
